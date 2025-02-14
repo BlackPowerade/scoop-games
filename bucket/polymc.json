@@ -1,10 +1,10 @@
 {
-    "version": "6.1",
+    "version": "7.0",
     "description": "An Open Source Minecraft launcher with the ability to manage multiple instances, accounts and mods. Focused on user freedom and free redistributability.",
     "homepage": "https://polymc.org/",
     "license": "GPL-3.0-only",
-    "url": "https://github.com/PolyMC/PolyMC/releases/download/6.1/PolyMC-Windows-6.1.zip",
-    "hash": "14db8221cc19ffaa8d4f20512fc83a8c3ad98671f61f3ae1faf935e70c336ebc",
+    "url": "https://github.com/PolyMC/PolyMC/releases/download/7.0/PolyMC-Windows-7.0.zip",
+    "hash": "4799b25ebeca24f2deccff5ab1d8391a8a4886eb678cc19ce3aebd09c4298daa",
     "bin": "PolyMC.exe",
     "shortcuts": [
         [
