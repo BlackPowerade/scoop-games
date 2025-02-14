@@ -1,10 +1,10 @@
 {
-    "version": "6.1",
+    "version": "7.0",
     "description": "An Open Source Minecraft launcher with the ability to manage multiple instances, accounts and mods. Focused on user freedom and free redistributability. Qt 5 build that still supports legacy Windows like 8.1 and 7.",
     "homepage": "https://polymc.org/",
     "license": "GPL-3.0-only",
-    "url": "https://github.com/PolyMC/PolyMC/releases/download/6.1/PolyMC-Windows-Legacy-6.1.zip",
-    "hash": "011b10913cfeb7106c5bd1fb41d398b44eeea0c0d5674875c13a9813a74d0f8e",
+    "url": "https://github.com/PolyMC/PolyMC/releases/download/7.0/PolyMC-Windows-Legacy-7.0.zip",
+    "hash": "7260b85c4e83f2bad0d6eece1de97dd2fb6917554eeba4fb6c6a9dcd0d350ba9",
     "bin": "PolyMC.exe",
     "shortcuts": [
         [
